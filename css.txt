@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'Myriad Pro';
+  font-size: 20px;
+  src: url(assets/fonts/MyriadPro-Black.ttf) format("ttf");
+}
+
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+  background-color: #03a9f4;
+  padding: 18px;
+}
+
+.img{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.logo{
+  
+}
+
+.p_2{
+  flex-wrap: wrap;
+}
+.blue{
+  color: #fff;
+  margin-bottom: 0;
+  height: 50px;
+}
+.p{
+  font-family: 'Open Sans';
+  font-size: 13px;
+  margin-top: 0;
+  color: #fff;
+}
+span{
+  margin: 0;
+}
+.span{
+  font-family: 'Gabriola';
+  font-size: 39px;
+}
+.essay{
+  color: yellow;
+  font-family: 'Myriad Pro';
+}
+
+.dropdown{
+  text-decoration: none;
+  color: #fff;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+}
+.buttons{
+  display: flex;
+  justify-content: flex-end;
+}
